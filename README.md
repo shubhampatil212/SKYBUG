@@ -36,7 +36,7 @@ and another as a command-line application.
 Contributions are welcome! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request.
 
 ### Author
-[Shubham Patil]
+Shubham Patil
 
 Enjoy Genius!
 
